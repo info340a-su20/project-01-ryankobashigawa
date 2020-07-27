@@ -1,0 +1,21 @@
+h2 {
+    padding-top: 30px;
+}
+
+/* applies font and color rules to body*/
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    background-color: whitesmoke;
+    color: black;
+ }
+
+ p {
+    line-height: 1.5;
+    width: 75%;
+}
+
+/* makes emphasized words bold*/
+em {
+    font-weight: bold;
+}
